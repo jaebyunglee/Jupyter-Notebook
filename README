@@ -1,1 +1,4 @@
 Jupyter Notebook 폰트 설정 방법
+
+1. D2coding 폰트 다운로드
+2. 사용자이름/.jupyter/custom/custom.css 파일 저장
